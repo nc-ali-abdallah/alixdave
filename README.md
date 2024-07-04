@@ -18,4 +18,7 @@ Each folder within this repository contains a piece of work where either Ali has
 
 - **Feedback Requested By** Ali
 
-
+- Added /project-euler -> 18 and 67
+- We discussed this sort of challenge...
+    - Something that is possible without being forced to reconsider approach due to inefficiency on a larger scale
+    - Solve 18 first - then 67 does exactly this; forces you to alter your approach, depending on how you solve initially of course!
